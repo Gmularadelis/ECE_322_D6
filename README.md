@@ -4,7 +4,7 @@
 
 **About Me**
 - 3/4 Computer Engineering Major
-- Minor in Mechatronics
+- Minoring in Mechatronics
 - Currently a contractor with Army DEVCOM
 
 [DEVCOM GitHub](https://github.com/usarmyresearchlab)
