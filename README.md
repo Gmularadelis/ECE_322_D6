@@ -11,6 +11,8 @@
 
 ![DEVCOM ARL Logo](9535064.png)
 
+[My CPE 322 Team Website](https://sites.google.com/stevens.edu/cpe-322-project/home)
+
 *Fun Facts*
 1. Currently an IEEE member
 2. I'm a self-taught musician
